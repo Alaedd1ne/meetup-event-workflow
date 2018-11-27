@@ -1,0 +1,22 @@
+[
+   {
+      "type":"STRING",
+      "name":"Keyword",
+      "mode":"NULLABLE"
+   },
+   {
+      "type":"STRING",
+      "name":"City",
+      "mode":"NULLABLE"
+   },
+   {
+      "type":"STRING",
+      "name":"Country",
+      "mode":"NULLABLE"
+   },
+   {
+      "type":"INTEGER",
+      "name":"count",
+      "mode":"NULLABLE"
+   }
+]

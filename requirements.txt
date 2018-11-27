@@ -1,0 +1,4 @@
+protobuf
+google-cloud-language
+httplib2
+google-auth-httplib2
