@@ -144,13 +144,6 @@ def encapsulate_event_model(event):
         logging.info('key error exception : {}'.format(e))
     return new_event
 
-#get_it_event_france()
-#test_group_id=22702436
-#get_events(test_group_id,'-1w','', 'past')
-#get_groups(34, 'fr')
-#get_categories()
-
-
 def extractDailyData(ds, **kwargs):
     export_dir = kwargs['params']['dir']
     events_count = 0
