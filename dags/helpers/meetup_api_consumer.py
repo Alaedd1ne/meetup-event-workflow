@@ -11,7 +11,7 @@ import requests
 from helpers.entity_api_consumer import get_description_entities
 
 api_version = 2
-api_key='75525d6b7a4b1d66587f4748147fd7d'
+api_key='###############################'
 
 
 def get_categories():
